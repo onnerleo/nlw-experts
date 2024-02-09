@@ -1,2 +1,8 @@
 # nlw-experts
-Trilha HTML, CSS e JavaScript
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScrip
+- Github
